@@ -1936,8 +1936,8 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   color: #222;
-  font-weight: 400;
-  font-size: 12px;
+  font-weight: 700;
+  font-size: 18px;
   text-transform: uppercase;
   outline: none;
 }
