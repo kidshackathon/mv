@@ -3238,3 +3238,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 */
 
 /*# sourceMappingURL=main.css.map */
+p {
+  font-size: 1.5em;
+  text-align: justify;
+  line-height: 25px;
+}
+
+h1 {
+  font-size: 6vmin;
+  font-weight: 800;
+  margin-bottom: 6vmin;
+}
